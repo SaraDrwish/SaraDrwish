@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://th.bing.com/th/id/OIP.jublEvrpFTIqfHS76sICXgHaE7?pid=ImgDet&rs=1)
+![Aditya Vikram Singh Banner](https://veerle.duoh.com/images/inspiration/frosty-morning-light-big.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
@@ -15,11 +15,11 @@
 ✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eRzudFoVw1fXKpkSZ6JvizNj6BPYO6nL/view?usp=sharing)
 for more details about me. I'm open to feedback and suggestions!
-
+<br>
 <img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+<br>
 ### 🛠 &nbsp;Tech Stack
-
+<br><br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -35,9 +35,9 @@ for more details about me. I'm open to feedback and suggestions!
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
+<br>
 ### ⚙️ &nbsp;GitHub Analytics
-
+<br>
 <p align="center">
 <a href="https://github.com/SaraDrwish">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
