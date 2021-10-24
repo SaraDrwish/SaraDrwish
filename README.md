@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://veerle.duoh.com/images/inspiration/frosty-morning-light-big.jpg)
+![Aditya Vikram Singh Banner](https://2.bp.blogspot.com/-YJMEp4fAXv4/UHZUwI3JaII/AAAAAAAALTw/16KPUHLuXSc/s1600/Galaxy+Desktop+Wallpapers+1.jpg)
 
 <img alt=" " src=" " width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
@@ -13,8 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eRzudFoVw1fXKpkSZ6JvizNj6BPYO6nL/view?usp=sharing)
-for more details about me. I'm open to feedback and suggestions!
-<br>
+for more details about me. I'm open to feedback and suggestions! .\
 <br>
 <img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 <br>
