@@ -50,10 +50,10 @@ for more details about me. I'm open to feedback and suggestions!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sara-darwish-921341178/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sandrwish892@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/so.gado/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100004068983816"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.com/sooosoooadel555/_saved/"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="mailto:sandrwish892@gmail.com"><img src="https://img.shields.io/badge/-sandrwish892-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/so.gado/"><img src="https://img.shields.io/badge/-@sara__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100004068983816"><img src="https://img.shields.io/badge/-@sara-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.com/sooosoooadel555/_saved/"><img src="https://img.shields.io/badge/-@sara-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
 
 -----
