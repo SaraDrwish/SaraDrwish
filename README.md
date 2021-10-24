@@ -1,13 +1,12 @@
 ![Aditya Vikram Singh Banner](https://veerle.duoh.com/images/inspiration/frosty-morning-light-big.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt=" " src=" " width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies , develop websites front - end and quick hacks.\
-<br>
 🎓 &nbsp;I'm Graduated from Computer Science at Arab Open University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\
 ✍️ & nbsp; In my spare time, I pursue front end web design, foreign language learning and photography as hobbies/side business. \ 
@@ -16,7 +15,9 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eRzudFoVw1fXKpkSZ6JvizNj6BPYO6nL/view?usp=sharing)
 for more details about me. I'm open to feedback and suggestions!
 <br>
-<img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<br>
+<img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
+<br>
 <br>
 ### 🛠 &nbsp;Tech Stack
 <br><br>
