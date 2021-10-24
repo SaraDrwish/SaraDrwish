@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies , develop websites front - end and quick hacks.\
 🎓 &nbsp;I'm Graduated from Computer Science at Arab Open University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\
-✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . \ 
+✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . \ <br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eRzudFoVw1fXKpkSZ6JvizNj6BPYO6nL/view?usp=sharing)
@@ -47,7 +47,7 @@ for more details about me. I'm open to feedback and suggestions! .\
 <p align="center">
 <a href="https://www.linkedin.com/in/sara-darwish-921341178/"><img src="https://img.shields.io/badge/-sara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sandrwish892@gmail.com"><img src="https://img.shields.io/badge/-sandrwish892-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/so.gado/"><img src="https://img.shields.io/badge/-@sara__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/so.gado/"><img src="https://img.shields.io/badge/-@sara-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100004068983816"><img src="https://img.shields.io/badge/-@sara-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/sooosoooadel555/_saved/"><img src="https://img.shields.io/badge/-@sara-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
