@@ -56,6 +56,7 @@ for more details about me. I'm open to feedback and suggestions! .\
 <br>
 <br>
 <p align="center">
+   <br>
 <a href="https://www.linkedin.com/in/sara-darwish-921341178/"><img src="https://img.shields.io/badge/-sara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sandrwish892@gmail.com"><img src="https://img.shields.io/badge/-sandrwish892-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/so.gado/"><img src="https://img.shields.io/badge/-@sara-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
