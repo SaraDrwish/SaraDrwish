@@ -37,10 +37,18 @@ for more details about me. I'm open to feedback and suggestions! .\
 <br>
 <p align="center">
 <a href="https://github.com/SaraDrwish">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaraDrwish&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+   <br>
+  
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaraDrwish&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaraDrwish&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&background=050F2C)](https://git.io/streak-stats))
