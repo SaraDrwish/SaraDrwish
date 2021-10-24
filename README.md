@@ -43,8 +43,10 @@ for more details about me. I'm open to feedback and suggestions! .\
 </p>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaraDrwish&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=81477149)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaraDrwish&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=81477149)](https://git.io/streak-stats)
 
+<br>
+<br>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
