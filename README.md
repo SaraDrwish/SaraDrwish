@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://th.bing.com/th/id/OIP.jublEvrpFTIqfHS76sICXgHaE7?pid=ImgDet&rs=1)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
@@ -7,6 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies , develop websites front - end and quick hacks.\
+<br>
 🎓 &nbsp;I'm Graduated from Computer Science at Arab Open University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\
 ✍️ & nbsp; In my spare time, I pursue front end web design, foreign language learning and photography as hobbies/side business. \ 
