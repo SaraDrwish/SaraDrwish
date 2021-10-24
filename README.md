@@ -39,13 +39,13 @@ for more details about me. I'm open to feedback and suggestions! .\
 <a href="https://github.com/SaraDrwish">
    <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaraDrwish&theme=tokyonight)](https://git.io/praveenscience)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaraDrwish&theme=cobalt)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=cobalt) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=cobalt) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&theme=cobalt) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=cobalt) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
 
 
 <br>
