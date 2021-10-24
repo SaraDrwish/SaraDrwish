@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies , develop websites front - end and quick hacks.\
 🎓 &nbsp;I'm Graduated from Computer Science at Arab Open University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\
-✍️ & nbsp; In my spare time, I pursue front end web design, foreign language learning and photography as hobbies/side business. \ 
+✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . \ 
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eRzudFoVw1fXKpkSZ6JvizNj6BPYO6nL/view?usp=sharing)
@@ -40,8 +40,8 @@ for more details about me. I'm open to feedback and suggestions! .\
 <br>
 <p align="center">
 <a href="https://github.com/SaraDrwish">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaraDrwish&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
