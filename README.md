@@ -9,7 +9,7 @@
 💡 &nbsp;I like to explore new technologies , develop websites front - end and quick hacks.\
 🎓 &nbsp;I'm Graduated from Computer Science at Arab Open University.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\
-✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . \ <br>
+✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . <br>
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1eRzudFoVw1fXKpkSZ6JvizNj6BPYO6nL/view?usp=sharing)
