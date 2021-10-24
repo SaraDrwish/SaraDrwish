@@ -41,6 +41,9 @@ for more details about me. I'm open to feedback and suggestions! .\
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaraDrwish&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=81477149)](https://git.io/streak-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
