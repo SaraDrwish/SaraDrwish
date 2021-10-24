@@ -45,8 +45,6 @@ for more details about me. I'm open to feedback and suggestions! .\
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&theme=cobalt) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=cobalt) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=cobalt)
-
 
 <br>
 
