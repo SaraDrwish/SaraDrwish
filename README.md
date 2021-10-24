@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://2.bp.blogspot.com/-YJMEp4fAXv4/UHZUwI3JaII/AAAAAAAALTw/16KPUHLuXSc/s1600/Galaxy+Desktop+Wallpapers+1.jpg)
 
-<img alt=" " src=" " width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Sara </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
