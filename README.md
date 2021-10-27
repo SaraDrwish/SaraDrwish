@@ -65,6 +65,6 @@ for more details about me. I'm open to feedback and suggestions! .\
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/SaraDrwish)
+Credits: [ Sara Darwish ](https://github.com/SaraDrwish)
 
 Last Edited on: 24/10/2021
