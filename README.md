@@ -1,5 +1,6 @@
-![Aditya Vikram Singh Banner]()
-
+<!-- ![Aditya Vikram Singh Banner]()
+ -->
+ 
 <h2>Hey there! I'm Sara </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
