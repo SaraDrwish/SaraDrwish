@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://2.bp.blogspot.com/-YJMEp4fAXv4/UHZUwI3JaII/AAAAAAAALTw/16KPUHLuXSc/s1600/Galaxy+Desktop+Wallpapers+1.jpg)
+![Aditya Vikram Singh Banner]()
 
 <h2>Hey there! I'm Sara </h2>
 
@@ -15,7 +15,7 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1C6Sgcf801i52W0PpoKy5AQP-2haiWmnY/view?usp=sharing)
 for more details about me. I'm open to feedback and suggestions! .\
 <br>
-<!-- <img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  /> -->
+<img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 <br>
 <br>
 ### 🛠 &nbsp;Tech Stack
