@@ -7,13 +7,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies,develop websites front-end .\
-🎓 &nbsp;I'm Graduated from Computer Science at Arab Open University.\
+💡 &nbsp; I like to explore new technologies,develop websites front-end .\
+🎓 &nbsp; I'm Graduated from Computer Science at Arab Open University.\
+
+🌱 &nbsp; Always like to develop myself in my programming field or even in other areas that I am interested in. I am interested in learning new things and keeping pace with technical development, have passionate about technology, always strive to develop my skills and advance professionally.  I trust my ability to constantly learn to develop websites professionally. so I love attending courses, lectures that may sharpen my skills and lead me to success.
+
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\ -->
 <!-- ✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . <br> -->
 ✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! .\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1C6Sgcf801i52W0PpoKy5AQP-2haiWmnY/view?usp=sharing)
 for more details about me. I'm open to feedback and suggestions! .\
+
 <br>
 <img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  />
 <br>
