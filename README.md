@@ -14,8 +14,8 @@
 
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\ -->
 <!-- ✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . <br> -->
-✉️ &nbsp;You can shoot me an email at sandrwish892@gmail.com! .\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1C6Sgcf801i52W0PpoKy5AQP-2haiWmnY/view?usp=sharing)
+✉️ &nbsp;You can shoot me an email at it.saradarwish@gmail.com ! .\
+📄 &nbsp;Please have a look at my CV 
 for more details about me. I'm open to feedback and suggestions! .\
 
 <br>
@@ -68,4 +68,4 @@ for more details about me. I'm open to feedback and suggestions! .\
 -----
 Credits: [ Sara Darwish ](https://github.com/SaraDrwish)
 
-Last Edited on: 24/10/2021
+Last Edited on: 18/01/2023
