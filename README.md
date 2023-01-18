@@ -8,7 +8,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies,develop websites front-end .\
-🎓 &nbsp; I'm Graduated from Computer Science at Arab Open University.\
+🎓 &nbsp; I'm Graduated from Computer Science at Arab Open University.
+
+
 
 🌱 &nbsp; Always like to develop myself in my programming field or even in other areas that I am interested in. I am interested in learning new things and keeping pace with technical development, have passionate about technology, always strive to develop my skills and advance professionally.  I trust my ability to constantly learn to develop websites professionally. so I love attending courses, lectures that may sharpen my skills and lead me to success.
 
