@@ -42,7 +42,7 @@ for more details about me. I'm open to feedback and suggestions! .
 <a href="https://github.com/SaraDrwish">
    <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaraDrwish&theme=tokyonight)](https://git.io/praveenscience)
+(https://activity-graph.herokuapp.com/graph?username=SaraDrwish&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight) |
 | --- | --- |
