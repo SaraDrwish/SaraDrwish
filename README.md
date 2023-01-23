@@ -34,16 +34,12 @@ for more details about me. I'm open to feedback and suggestions! .
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 <br>
 <br>
 
 <p align="center">
 <a href="https://github.com/SaraDrwish">
-   <br>
-  
-(https://activity-graph.herokuapp.com/graph?username=SaraDrwish&theme=tokyonight)](https://git.io/praveenscience)
-
+<br>
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
