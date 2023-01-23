@@ -35,11 +35,9 @@ for more details about me. I'm open to feedback and suggestions! .
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
+<br>
 
-<br>
-<br>
-### ⚙️ &nbsp;GitHub Analytics
-<br>
 <p align="center">
 <a href="https://github.com/SaraDrwish">
    <br>
@@ -69,4 +67,4 @@ for more details about me. I'm open to feedback and suggestions! .
 -----
 Credits: [ Sara Darwish ](https://github.com/SaraDrwish)
 
-Last Edited on: 18/01/2023
+Last Edited on: 23/01/2023
