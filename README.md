@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies,develop websites front-end .\
-🎓 &nbsp; I'm Graduated from Computer Science at Arab Open University.
+🎓 &nbsp; I'm Graduated from Computer Science from Arab Open University in 2021 .
 
 
 
