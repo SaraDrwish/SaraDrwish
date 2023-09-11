@@ -12,7 +12,7 @@
 
 
 
-🌱 &nbsp; Always like to develop myself in my programming field or even in other areas that I am interested in. I am interested in learning new things and keeping pace with technical development, have passionate about technology, always strive to develop my skills and advance professionally.  I trust my ability to constantly learn to develop websites professionally. so I love attending courses, lectures that may sharpen my skills and lead me to success.
+🌱 &nbsp; Always like to develop myself in my programming field or even in other areas that I am interested in. I learn a new things and keep pace with technical development . I trust my ability to constantly learn to develop websites professionally.  
 
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\ -->
 <!-- ✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . <br> -->
