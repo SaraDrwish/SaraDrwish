@@ -17,7 +17,7 @@
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\ -->
 <!-- ✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . <br> -->
 ✉️ &nbsp;You can shoot me an email at it.saradarwish@gmail.com ! .\
-📄 &nbsp;Please have a look at my <a href="https://drive.google.com/drive/folders/1zQt65jfzAZssInRAtfJPdgDKTsAl2Zrf?usp=sharing"> CV </a>
+📄 &nbsp;Please have a look at my <a href="https://drive.google.com/drive/folders/1RWH5yl1LC_hmMJSpKC_jK0i6cVKplVwd?usp=sharing"> CV </a>
 for more details about me. I'm open to feedback and suggestions! .
 
 <br>
