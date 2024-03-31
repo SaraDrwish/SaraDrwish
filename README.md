@@ -36,6 +36,7 @@ for more details about me. I'm open to feedback and suggestions! .
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![vuejs](https://img.shields.io/badge/-Vue JS-05122A?style=flat&logo=vuejs)&nbsp;
 ![sass](https://img.shields.io/badge/-scss-05122A?style=flat&logo=sass)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 <br>
