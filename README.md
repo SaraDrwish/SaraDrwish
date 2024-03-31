@@ -33,6 +33,8 @@ for more details about me. I'm open to feedback and suggestions! .
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Git-05122A?style=flat&logo=github)&nbsp;
+![gitlab](https://img.shields.io/badge/-Git-05122A?style=flat&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![sass](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
