@@ -39,6 +39,8 @@ for more details about me. I'm open to feedback and suggestions! .
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![sass](https://img.shields.io/badge/-scss-05122A?style=flat&logo=sass)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwindcss)&nbsp;
+![vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![nuxtjs](https://img.shields.io/badge/-Nuxtjs-05122A?style=flat&logo=nuxtjs)&nbsp;
 <br>
 <br>
 
