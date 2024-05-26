@@ -45,7 +45,7 @@ for more details about me. I'm open to feedback and suggestions! .
 <br>
 
 <p align="center">
-<a href="https://github.com/SaraDrwish">
+<a href="https://github.com/SaraDrwish" target="_blank">
 <br>
  
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight) |
@@ -63,8 +63,8 @@ for more details about me. I'm open to feedback and suggestions! .
 <br>
 <p align="center">
    <br>
-<a href="https://www.linkedin.com/in/sara-darwish-921341178/"><img src="https://img.shields.io/badge/-sara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:it.saradarwish@gmail.com"><img src="https://img.shields.io/badge/-it.saradarwish-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sara-darwish-921341178/" target="_blank" ><img src="https://img.shields.io/badge/-sara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:it.saradarwish@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-it.saradarwish-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
 
 -----
