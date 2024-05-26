@@ -40,7 +40,7 @@ for more details about me. I'm open to feedback and suggestions! .
 ![sass](https://img.shields.io/badge/-scss-05122A?style=flat&logo=sass)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
-![nuxt](https://img.shields.io/badge/-Nuxtjs-05122A?style=flat&logo=nuxt)&nbsp;
+![nuxt.js](https://img.shields.io/badge/-Nuxtjs-05122A?style=flat&logo=nuxt.js)&nbsp;
 <br>
 <br>
 
