@@ -40,6 +40,10 @@ for more details about me. I'm open to feedback and suggestions! .
 ![sass](https://img.shields.io/badge/-scss-05122A?style=flat&logo=sass)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-TailwindCss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![vuetify](https://img.shields.io/badge/-Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![vuetify](https://img.shields.io/badge/-cloud-05122A?style=flat&logo=cloud)&nbsp;
+![vuetify](https://img.shields.io/badge/-aws-05122A?style=flat&logo=aws)&nbsp;
+![vuetify](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![vuetify](https://img.shields.io/badge/-ansible-05122A?style=flat&logo=ansible)&nbsp;
 ![nuxt.js](https://img.shields.io/badge/-Nuxtjs-05122A?style=flat&logo=nuxt.js)&nbsp;
 <br>
 <br>
