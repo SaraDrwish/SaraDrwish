@@ -17,11 +17,11 @@
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, React, and DB .\ -->
 <!-- ✍️ &nbsp;In my spare time,I pursue front end web design, foreign language learning and photography as hobbies'side business' . <br> -->
 ✉️ &nbsp;You can shoot me an email at it.saradarwish@gmail.com ! .\
-📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/16BLUATZS8VBL3qdhunRiI6_u5B9zAO2s/view?usp=sharing"> CV </a>
+📄 &nbsp;Please have a look at my <a target="_blank" href="https://drive.google.com/file/d/1hHKEHHD9pLaCpwQKxB3ZEfaVw-Y1UcYL/view?usp=sharing"> CV </a>
 for more details about me. I'm open to feedback and suggestions! .
 
 <br>
-<img alt="sara" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" > 
+<img alt="sara" target="_blank" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" > 
 <br>
 <br>
 ### 🛠 &nbsp;Tech Stack
