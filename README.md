@@ -53,18 +53,17 @@ for more details about me. I'm open to feedback and suggestions! .
 <br>
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=SaraDrwish&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+ <img src="https://streak-stats.demolab.com?user=SaraDrwish&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraDrwish&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&theme=tokyonight" height="180"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraDrwish&theme=tokyonight" height="180"/>
 </p>
 
----
+<br>
 
 
 <br>
