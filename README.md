@@ -54,11 +54,17 @@ for more details about me. I'm open to feedback and suggestions! .
 
 ## 📊 GitHub Analytics
 
-| ![Sara GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_color=30363d) | ![Sara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&border=30363d) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&theme=tokyonight&title_color=00ffff&text_color=ffffff&border_color=30363d) | ![GitHub Overview](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Profile%20Overview&disable_animations=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_color=30363d) |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=SaraDrwish&theme=tokyonight" />
+</p>
 
-<br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraDrwish&theme=tokyonight" />
+</p>
+
+---
 
 
 <br>
