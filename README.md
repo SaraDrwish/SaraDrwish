@@ -51,11 +51,12 @@ for more details about me. I'm open to feedback and suggestions! .
 <p align="center">
 <a href="https://github.com/SaraDrwish" target="_blank">
 <br>
- 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+## 📊 GitHub Analytics
+
+| ![Sara GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_color=30363d) | ![Sara GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaraDrwish&theme=tokyonight&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&border=30363d) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&theme=tokyonight&title_color=00ffff&text_color=ffffff&border_color=30363d) | ![GitHub Overview](https://github-readme-stats.vercel.app/api?username=SaraDrwish&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Profile%20Overview&disable_animations=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_color=30363d) |
 
 <br>
 
