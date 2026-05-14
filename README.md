@@ -58,10 +58,6 @@ for more details about me. I'm open to feedback and suggestions! .
  <img src="https://streak-stats.demolab.com?user=SaraDrwish&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraDrwish&layout=compact&theme=tokyonight" height="180"/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraDrwish&theme=tokyonight" height="180"/>
-</p>
 
 <br>
 
